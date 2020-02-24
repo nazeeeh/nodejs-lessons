@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-lessons",
+  "version": "1.0.0",
+  "description": "node js lessons",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazeeeh/nodejs-lessons.git"
+  },
+  "author": "Nazeeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazeeeh/nodejs-lessons/issues"
+  },
+  "homepage": "https://github.com/nazeeeh/nodejs-lessons#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
